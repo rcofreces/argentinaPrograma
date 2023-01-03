@@ -1,12 +1,8 @@
-header, section {
+/* header, section {
     margin: 20px 5px;
     padding: 20px;
     border: 2px solid black;
     border-radius: 10px;
-}
-
-header {
-    background-color: aqua;
 }
 
 button {
@@ -64,4 +60,8 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
+} */
+
+.perfil {
+    width: 10%;
 }
